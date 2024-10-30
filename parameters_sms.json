@@ -4,5 +4,6 @@
   "dataset_uri":"gs://de2024group14jads/SMS_preporcessed.csv",
   "model_repo":"de2024group14jads_model",
   "thresholds_dict_str":"{\"roc\":0.8}",
-  "model_repo_uri":"gs://de2024group14jads_model"
+  "model_repo_uri":"gs://de2024group14jads_model",
+  "trigger_id":"049fa2de-8b75-4e82-ad20-f5705e9e034e"
 }

@@ -5,7 +5,7 @@
        "name": "gcr.io/cloud-builders/gsutil",
        "args": [
            "cp",           
-		   "gs://${_CONF_REPO}/parameters_sms.json",
+		                "gs://${_CONF_REPO}/parameters_sms.json",
            "."
         ]
    },

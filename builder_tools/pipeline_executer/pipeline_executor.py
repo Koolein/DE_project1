@@ -14,7 +14,7 @@ def run_pipeline_job(name, pipeline_def, pipeline_root, parameter_dict):
     logging.info(data)
     job = aip.PipelineJob(
         display_name=name,
-		enable_caching=False,
+		        enable_caching=False,
         template_path=pipeline_def,
         pipeline_root=pipeline_root,
         parameter_values=data)
