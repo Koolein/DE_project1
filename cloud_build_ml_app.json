@@ -74,7 +74,7 @@
         "--memory",
         "4G",
         "--set-env-vars",
-        "PREDICTOR_API=https://prediction-ui-869950393537.us-central1.run.app/predict_classification",
+        "PREDICTOR_API=https://prediction-api-869950393537.us-central1.run.app/predict_classification/",
         "--allow-unauthenticated"
       ]
     }
