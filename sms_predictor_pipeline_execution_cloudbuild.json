@@ -6,7 +6,7 @@
        "args": [
            "cp",           
 		   "gs://${_CONF_REPO}/parameters_sms.json",
-           ".",
+           "."
         ]
    },
    {
